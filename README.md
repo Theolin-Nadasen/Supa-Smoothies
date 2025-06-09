@@ -1,9 +1,11 @@
-# Starter React Project for the Supabase Course
+# Supa Smoothies App from Net Ninja Course
 
-**How to run the starter project:**
+**This project can manage smoothies using the SupaBase backend**
 
-1. Once downloaded, navigate to the project directory in a terminal and run **npm install** to install all the project dependencies.
-2. In the project directory, run **npm start** to run the app & view it in a browser at [http://localhost:3000](http://localhost:3000).
+**To test the project:**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clone the repo
+2. run `npm install`
+3. use `npm start` to run the project
+
+i may have deleted the database from SupaBase by the time you are seeing this. simply create your own database and put the details in the `.env` file
